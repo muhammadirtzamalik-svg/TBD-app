@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#1c1917" />
+  <circle cx="256" cy="256" r="210" fill="#292524" />
+  <!-- Construction Helmet / Site icon -->
+  <path d="M128 320 C128 200, 200 160, 256 160 C312 160, 384 200, 384 320 Z" fill="#f59e0b" />
+  <rect x="110" y="320" width="292" height="34" rx="10" fill="#d97706" />
+  <!-- Helmet ridge and crest -->
+  <path d="M242 160 L242 320 L270 320 L270 160 Z" fill="#b45309" opacity="0.6"/>
+  <!-- Trowel / Brick symbol -->
+  <rect x="220" y="380" width="72" height="18" rx="4" fill="#f97316" />
+  <rect x="170" y="406" width="78" height="18" rx="4" fill="#fb923c" />
+  <rect x="264" y="406" width="78" height="18" rx="4" fill="#fb923c" />
+</svg>

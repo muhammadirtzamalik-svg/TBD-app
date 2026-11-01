@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Tahir Builders & Developers - SiteLedger",
+  "short_name": "TahirBuild",
+  "description": "Offline-ready construction site management, weekly site sheets, labor daily toll, subcontractor contract ledger, and activity tracking for Tahir Builders & Developers.",
+  "theme_color": "#ea580c",
+  "background_color": "#1c1917",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

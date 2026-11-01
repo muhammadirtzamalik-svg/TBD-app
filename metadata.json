@@ -1,0 +1,6 @@
+{
+  "name": "Tahir Builders & Developers - SiteLedger",
+  "description": "Offline-ready construction site management, weekly site sheets, labor daily toll, subcontractor contract ledger, and activity tracking for Tahir Builders & Developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
